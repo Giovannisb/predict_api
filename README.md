@@ -20,4 +20,4 @@ Para executar a api dentro da IDE, basta abrir a pasta que foi clonada do reposi
 e a aplicação já estará rodando.
 
 ## Observações
-A API classifica apenas imagens de gatos e cachorros, não classificando outros animais, objetos, etc.
+A API classifica **apenas imagens de gatos e cachorros**, não classificando outros animais, objetos, etc.

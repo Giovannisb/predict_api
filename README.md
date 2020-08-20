@@ -18,3 +18,6 @@ Pronto, a aplicação estará rodando e basta acessar no navegador a seguinte ur
 ## IDE/PyCharm
 Para executar a api dentro da IDE, basta abrir a pasta que foi clonada do repositório. Após esse processo, basta rodar o arquivo `app.py`
 e a aplicação já estará rodando.
+
+## Observações
+A API classifica apenas imagens de gatos e cachorros, não classificando outros animais, objetos, etc.
